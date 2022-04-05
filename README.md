@@ -5,7 +5,7 @@ This is the gitignore that I usally use, it may be addapted from project to proj
 ### What does it cover?
 - JetBrains IDEs & some plugins
 - macOS stuff
-- Python stuff - Byte-com, C, Packages & Installers, etc...
+- Python stuff - Byte-code, C, Packages & Installers, etc...
 - Translations
 - Django stuff - Logs, local,  SQLite
 - Flask stuff
